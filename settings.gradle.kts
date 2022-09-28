@@ -14,6 +14,7 @@ include(
         "event-app",
         "fastcam-spring-utils",
         "fastcam-photoapp",
-        "fastcam-spring-apigw"
+        "fastcam-spring-apigw",
+        "fastcam-spring-eureka"
 )
 
