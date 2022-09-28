@@ -13,6 +13,7 @@ include(
         "dns-app",
         "event-app",
         "fastcam-spring-utils",
-        "fastcam-photoapp"
+        "fastcam-photoapp",
+        "fastcam-spring-apigw"
 )
 
