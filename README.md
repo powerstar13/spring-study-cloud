@@ -15,3 +15,7 @@
    - localhost:15672 접속하여 RabbitMQ admin을 사용
    - RabbitTemplate를 사용하여 메시지를 발송하기
    - @RabbitListener를 이용하여 메시지 수신하기
+6. spring cloud kafka를 이용한 kafka 연동
+   - kafka의 클러스터링을 관리하기 위해 zookeeper를 사용
+   - KafkaTemplate를 사용하여 메시지를 발송
+   - @KafkaListener: 카프카 메시지를 수신
