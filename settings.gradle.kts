@@ -15,6 +15,7 @@ include(
         "fastcam-spring-utils",
         "fastcam-photoapp",
         "fastcam-spring-apigw",
-        "fastcam-spring-eureka"
+        "fastcam-spring-eureka",
+        "fastcam-spring-rabbitmq"
 )
 
