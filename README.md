@@ -19,3 +19,4 @@
    - kafka의 클러스터링을 관리하기 위해 zookeeper를 사용
    - KafkaTemplate를 사용하여 메시지를 발송
    - @KafkaListener: 카프카 메시지를 수신
+7. FeignClient를 이용한 API 연동

@@ -17,6 +17,7 @@ include(
         "fastcam-spring-apigw",
         "fastcam-spring-eureka",
         "fastcam-spring-rabbitmq",
-        "fastcam-spring-kafka"
+        "fastcam-spring-kafka",
+        "fastcam-feignclient"
 )
 
