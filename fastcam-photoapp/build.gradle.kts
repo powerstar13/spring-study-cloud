@@ -56,7 +56,6 @@ dependencyManagement {
 	imports {
 		mavenBom ("org.springframework.cloud:spring-cloud-dependencies:2020.0.1")
 		mavenBom ("org.springframework.cloud:spring-cloud-gcp-dependencies:1.2.7.RELEASE")
-		mavenBom ("org.springframework.cloud:spring-cloud-dependencies:2020.0.1")
 	}
 }
 

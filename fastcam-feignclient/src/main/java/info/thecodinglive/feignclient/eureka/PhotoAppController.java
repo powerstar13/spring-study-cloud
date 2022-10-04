@@ -16,7 +16,7 @@ public class PhotoAppController {
         return photoClient.sayHello();
     }
 
-    @FeignClient("photoapp")  //도메인 정보
+    @FeignClient("photoapp") // SpringBoot에서 등록된 애플리케이션의 도메인 정보
     interface PhotoClient {
         @GetMapping("/clients")
         String sayHello();

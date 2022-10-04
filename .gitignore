@@ -38,4 +38,4 @@ out/
 
 ### Security ###
 *.yml
-fastcam-photoapp/src/main/resources/crendential-key.json
+fastcam-photoapp/src/main/resources/credential-key.json

@@ -20,3 +20,4 @@
    - KafkaTemplate를 사용하여 메시지를 발송
    - @KafkaListener: 카프카 메시지를 수신
 7. FeignClient를 이용한 API 연동
+8. FeignClient와 eureka 연동
