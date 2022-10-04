@@ -18,6 +18,8 @@ include(
         "fastcam-spring-eureka",
         "fastcam-spring-rabbitmq",
         "fastcam-spring-kafka",
-        "fastcam-feignclient"
+        "fastcam-feignclient",
+        "fastcam-resilience4j",
+        "fastcam-resilience4j-server"
 )
 

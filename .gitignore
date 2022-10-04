@@ -39,3 +39,4 @@ out/
 ### Security ###
 *.yml
 fastcam-photoapp/src/main/resources/credential-key.json
+fastcam-resilience4j/docker/prometheus.yml

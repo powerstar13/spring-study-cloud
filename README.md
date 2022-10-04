@@ -21,3 +21,4 @@
    - @KafkaListener: 카프카 메시지를 수신
 7. FeignClient를 이용한 API 연동
 8. FeignClient와 eureka 연동
+9. resilience4j를 활용한 circuit breaker 패턴 적용
