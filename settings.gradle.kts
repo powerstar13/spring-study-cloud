@@ -20,6 +20,8 @@ include(
         "fastcam-spring-kafka",
         "fastcam-feignclient",
         "fastcam-resilience4j",
-        "fastcam-resilience4j-server"
+        "fastcam-resilience4j-server",
+        "fastcam-spring-config",
+        "fastcam-spring-config-consumer"
 )
 

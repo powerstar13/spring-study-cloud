@@ -32,7 +32,7 @@ dependencies {
 	implementation("io.springfox:springfox-swagger2:2.9.2")
 	implementation("io.springfox:springfox-swagger-ui:2.9.2")
 
-	implementation ("org.springframework.cloud:spring-cloud-gcp-starter-storage")
+	implementation("org.springframework.cloud:spring-cloud-gcp-starter-storage")
 
 	implementation("org.springframework.cloud:spring-cloud-config:3.0.1")
 	implementation("org.springframework.cloud:spring-cloud-context:3.0.1")
@@ -44,7 +44,7 @@ dependencies {
 
 	implementation("org.springframework.cloud:spring-cloud-starter-sleuth")
 	implementation("org.springframework.cloud:spring-cloud-sleuth-zipkin")
-	implementation ("de.codecentric:spring-boot-admin-starter-client:2.4.0")
+	implementation("de.codecentric:spring-boot-admin-starter-client:2.4.0")
 
 
 	compileOnly("org.projectlombok:lombok")

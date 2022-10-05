@@ -22,6 +22,6 @@ public class GcpStorageService {
     }
     
     public void gcpFileDown(String gcpFileName, HttpServletResponse servletResponse) {
-        gcpStorageComponent.downloadGcpStroage(gcpFileName, servletResponse);
+        gcpStorageComponent.downloadGcpStorage(gcpFileName, servletResponse);
     }
 }

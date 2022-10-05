@@ -27,7 +27,7 @@ public class GcpStorageServiceTest {
 
     @Test
     public void gcpDownload() {
-        gcpUploadService.downloadGcpStroage(bucketName, "test.jpg", "src/main/resources/test-down.jpg");
+        gcpUploadService.downloadGcpStorage(bucketName, "test.jpg", "src/main/resources/test-down.jpg");
     }
 
     @Test

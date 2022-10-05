@@ -1,0 +1,2 @@
+### actuator refresh
+POST http://localhost:9093/actuator/refresh

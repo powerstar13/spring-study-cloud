@@ -22,3 +22,5 @@
 7. FeignClient를 이용한 API 연동
 8. FeignClient와 eureka 연동
 9. resilience4j를 활용한 circuit breaker 패턴 적용
+10. Google Cloud Storage 사용
+11. 스프링 클라우드에서 컨피그를 연동하여 설정 정보 업데이트 관리
