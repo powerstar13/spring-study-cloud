@@ -23,6 +23,7 @@ include(
         "fastcam-resilience4j-server",
         "fastcam-spring-config",
         "fastcam-spring-config-consumer",
-        "fastcam-spring-vault"
+        "fastcam-spring-vault",
+        "fastcam-spring-admin"
 )
 
