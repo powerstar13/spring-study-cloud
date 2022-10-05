@@ -35,8 +35,3 @@ out/
 
 ### VS Code ###
 .vscode/
-
-### Security ###
-*.yml
-*/src/main/resources/credential-key.json
-fastcam-resilience4j/docker/prometheus.yml
