@@ -24,6 +24,7 @@ include(
         "fastcam-spring-config",
         "fastcam-spring-config-consumer",
         "fastcam-spring-vault",
-        "fastcam-spring-admin"
+        "fastcam-spring-admin",
+        "fastcam-spring-sleuth"
 )
 
